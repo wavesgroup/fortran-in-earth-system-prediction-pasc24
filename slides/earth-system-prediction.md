@@ -59,7 +59,7 @@ MPAS simulation and animation courtesy of Dr. Falko Judt (NCAR)
 
 * A complex system of interacting components: Atmosphere, ocean, waves, land, sea-ice, chemistry, biomes, etc.
 * Spatial scales from microns to thousands of kilometers
-* Temporal scales from seconds to millennia
+* Temporal scales from milliseconds to millennia
 * Nonlinear feedback processes between Earth System components
 * _Emerging patterns_ that are not prescribed in the physics or code
 </section>
