@@ -3,7 +3,7 @@
 ## Fortran continues to improve in many ways..
 
 * MPI+Fortran keeps getting better (Thanks, Jeff)
-* Native Parallel Fortran continues to improve (Thanks, Damian & CLaSS team)
+* Native parallel Fortran continues to improve (Thanks, Kate, Damian & CLaSS team)
 * Fortran 2028 will bring type-safe generics (Thanks, Tom & The Generics team)
 * The modern ecosystem of Fortran tools and libraries is growing rapidly
 </section>
