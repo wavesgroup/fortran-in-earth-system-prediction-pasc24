@@ -21,5 +21,5 @@ _June 5, 2024_
 
 * Assistant Professor of Ocean Science
 * Domain scientist: Ocean waves and their role in the Earth system
-* Fortran enthusiast, educator, and application developer
+* Fortran application developer, educator, and open-source contributor
 </section>
